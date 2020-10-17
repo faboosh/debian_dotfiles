@@ -1,0 +1,75 @@
+# Font configuration (changes require restart)
+font:
+  # The size to use.
+  size: 9
+  # The normal (roman) font face to use.
+  normal:
+    family: Hermit 
+    # Style can be specified to pick a specific face.
+    style: Regular
+
+  # The bold font face
+  bold:
+    family: Hermit 
+    # Style can be specified to pick a specific face.
+    style: Bold
+
+  # The italic font face
+  italic:
+    family: Hermit
+    # Style can be specified to pick a specific face.
+    style: Italic
+window:
+  padding:
+    x: 5
+    y: 5
+# Colors (Horizon Dark)
+colors:
+  # Primary colors
+  primary:
+    background: '0x111111'
+    foreground: '0xe0e0e0'
+
+  
+  # normal:
+  #   black: '0x16161c'
+  #   red: '0xe95678'
+  #   green: '0x29d398'
+  #   yellow: '0xfab795'
+  #   blue: '0x26bbd9'
+  #   magenta: '0xee64ac'
+  #   cyan: '0x59e1e3'
+  #   white: '0xd5d8da'
+
+  # # Bright colors
+  # bright:
+  #   black: '0x5b5858'
+  #   red: '0xec6a88'
+  #   green: '0x3fdaa4'
+  #   yellow: '0xfbc3a7'
+  #   blue: '0x3fc4de'
+  #   magenta: '0xf075b5'
+  #   cyan: '0x6be4e6'
+  #   white: '0xd5d8da'
+
+  # Normal colors
+  normal:
+    black: '0x111111'
+    red: '0x4bc98a'
+    green: '0x4bc98a'
+    yellow: '0x4bc98a'
+    blue: '0x4bc98a'
+    magenta: '0x4bc98a'
+    cyan: '0x4bc98a'
+    white: '0xd5d8da'
+
+  # Bright colors
+  bright:
+    black: '0x222222'
+    red: '0x4bc98a'
+    green: '0x4bc98a'
+    yellow: '0x4bc98a'
+    blue: '0x4bc98a'
+    magenta: '0x4bc98a'
+    cyan: '0x4bc98a'
+    white: '0xd5d8da'
